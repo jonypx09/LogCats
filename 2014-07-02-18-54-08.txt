@@ -1,0 +1,1153 @@
+07-02 18:53:35.479 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:53:35.489 D/AudioFlinger(115): start(4098), calling pid 542 session 70
+07-02 18:53:35.489 D/AudioFlinger(115): ? => ACTIVE (4098) on thread 0x400544f0
+07-02 18:53:35.489 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:53:35.499 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:35.499 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:35.749 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:35.749 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:35.769 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:35.769 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:35.779 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:35.779 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:35.789 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:35.789 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:35.799 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:35.799 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:39.589 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:53:39.589 D/AudioFlinger(115): start(4099), calling pid 542 session 71
+07-02 18:53:39.589 D/AudioFlinger(115): ? => ACTIVE (4099) on thread 0x40c9e040
+07-02 18:53:39.599 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:53:39.609 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:39.609 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:39.669 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:39.669 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:39.689 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:39.689 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:39.699 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:39.699 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:39.709 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:39.709 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:39.719 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:39.719 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:42.619 I/ActivityManager(542): START u0 {act=com.android.systemui.recent.action.TOGGLE_RECENTS flg=0x10800000 cmp=com.android.systemui/.recent.RecentsActivity (has extras)} from pid 627
+07-02 18:53:42.919 I/Timeline(627): Timeline: Activity_idle id: android.os.BinderProxy@41eddde8 time:1000497
+07-02 18:53:43.219 I/Timeline(542): Timeline: Activity_windows_visible id: ActivityRecord{423355a0 u0 com.android.systemui/.recent.RecentsActivity t16} time:1000791
+07-02 18:53:43.519 I/ONCRPC  (110): rpc_handle_rpc_call: for Xid: 1c1, Prog: 31000000, Vers: d17ed9ea, Proc: 00000014
+07-02 18:53:43.519 I/ONCRPC  (110): rpc_handle_rpc_call: Find Status: 0 Xid: 1c1
+07-02 18:53:43.519 I/ONCRPC  (110): oncrpc_proxy_handle_cmd_rpc_call: Dispatching xid: 1c1
+07-02 18:53:43.949 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:53:43.949 D/AudioFlinger(115): start(4098), calling pid 542 session 72
+07-02 18:53:43.949 D/AudioFlinger(115): ? => ACTIVE (4098) on thread 0x40c6ea20
+07-02 18:53:43.949 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:53:43.969 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:43.969 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:44.049 V/PhoneStatusBar(627): setLightsOn(true)
+07-02 18:53:44.069 W/InputMethodManagerService(542): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4239bd78 (uid=10009 pid=627)
+07-02 18:53:44.219 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:44.219 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:44.229 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:44.229 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:44.239 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:44.239 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:44.259 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:44.259 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:44.269 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:44.269 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:44.379 I/Timeline(4518): Timeline: Activity_idle id: android.os.BinderProxy@41c6ef30 time:1001958
+07-02 18:53:44.749 I/Timeline(542): Timeline: Activity_windows_visible id: ActivityRecord{42176018 u0 com.nolanlawson.logcat/.LogcatActivity t14} time:1002321
+07-02 18:53:45.939 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:53:45.939 D/AudioFlinger(115): start(4099), calling pid 542 session 73
+07-02 18:53:45.939 D/AudioFlinger(115): ? => ACTIVE (4099) on thread 0x400544d8
+07-02 18:53:45.959 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:53:46.059 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:46.059 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:46.079 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:46.079 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:46.089 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:46.089 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:46.109 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:46.109 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:46.119 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:46.119 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:48.599 I/ActivityManager(542): START u0 {act=com.android.systemui.recent.action.TOGGLE_RECENTS flg=0x10800000 cmp=com.android.systemui/.recent.RecentsActivity (has extras)} from pid 627
+07-02 18:53:48.679 W/InputMethodManagerService(542): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@420be130 (uid=10035 pid=4518)
+07-02 18:53:48.819 I/Timeline(627): Timeline: Activity_idle id: android.os.BinderProxy@41eddde8 time:1006390
+07-02 18:53:49.089 I/Timeline(542): Timeline: Activity_windows_visible id: ActivityRecord{423355a0 u0 com.android.systemui/.recent.RecentsActivity t16} time:1006660
+07-02 18:53:50.679 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:53:50.689 D/AudioFlinger(115): start(4098), calling pid 542 session 74
+07-02 18:53:50.689 D/AudioFlinger(115): ? => ACTIVE (4098) on thread 0x40c9e040
+07-02 18:53:50.689 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:53:50.699 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:50.699 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:50.849 V/PhoneStatusBar(627): setLightsOn(true)
+07-02 18:53:50.919 I/Timeline(4518): Timeline: Activity_idle id: android.os.BinderProxy@41c6ef30 time:1008493
+07-02 18:53:50.949 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:50.949 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:50.969 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:50.969 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:50.979 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:50.979 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:50.989 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:50.989 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:50.999 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:50.999 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:51.259 I/Timeline(542): Timeline: Activity_windows_visible id: ActivityRecord{42176018 u0 com.nolanlawson.logcat/.LogcatActivity t14} time:1008831
+07-02 18:53:52.249 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:53:52.249 D/AudioFlinger(115): start(4099), calling pid 542 session 75
+07-02 18:53:52.249 D/AudioFlinger(115): ? => ACTIVE (4099) on thread 0x40c6ea20
+07-02 18:53:52.269 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:53:52.359 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:52.359 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:52.379 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:52.379 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:52.389 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:52.389 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:52.409 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:52.409 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:52.419 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:52.419 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:53.539 I/ActivityManager(542): START u0 {act=com.android.systemui.recent.action.TOGGLE_RECENTS flg=0x10800000 cmp=com.android.systemui/.recent.RecentsActivity (has extras)} from pid 627
+07-02 18:53:53.839 I/Timeline(627): Timeline: Activity_idle id: android.os.BinderProxy@41eddde8 time:1011409
+07-02 18:53:54.109 I/Timeline(542): Timeline: Activity_windows_visible id: ActivityRecord{423355a0 u0 com.android.systemui/.recent.RecentsActivity t16} time:1011688
+07-02 18:53:54.109 W/InputMethodManagerService(542): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@420be130 (uid=10035 pid=4518)
+07-02 18:53:54.559 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:53:54.569 D/AudioFlinger(115): start(4098), calling pid 542 session 76
+07-02 18:53:54.569 D/AudioFlinger(115): ? => ACTIVE (4098) on thread 0x40c9e040
+07-02 18:53:54.569 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:53:54.589 I/ActivityManager(542): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10304000 cmp=com.caf.fmradio/.FMRadio bnds=[198,346][444,564]} from pid 627
+07-02 18:53:54.679 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:54.679 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:54.689 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:54.689 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:54.709 V/Zygote  (4816): Switching descriptor 32 to /dev/null
+07-02 18:53:54.709 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:54.709 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:54.709 V/Zygote  (4816): Switching descriptor 9 to /dev/null
+07-02 18:53:54.719 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:54.719 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:54.719 I/ActivityManager(542): Start proc com.caf.fmradio for activity com.caf.fmradio/.FMRadio: pid=4816 uid=10019 gids={50019, 3002, 3001, 3003, 1028, 1015}
+07-02 18:53:54.729 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:54.729 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:54.969 D/ActivityThread(4816): handleBindApplication:com.caf.fmradio
+07-02 18:53:54.969 D/ActivityThread(4816): setTargetHeapUtilization:0.25
+07-02 18:53:54.969 D/ActivityThread(4816): setTargetHeapMinFree:524288
+07-02 18:53:54.999 D/FMAdapterApp(4816): Loading FM-JNI Library
+07-02 18:53:54.999 E/fmradio (4816): FM : loading QCOMM FM-JNI
+07-02 18:53:55.009 E/dalvikvm(4816): JNI posting fatal error: Native registration unable to find class 'qcom/fmradio/FmReceiverJNI'; aborting...
+07-02 18:53:55.009 I/dalvikvm(4816): "main" prio=5 tid=1 NATIVE
+07-02 18:53:55.009 I/dalvikvm(4816):   | group="main" sCount=0 dsCount=0 obj=0x419b4de0 self=0x4008b530
+07-02 18:53:55.009 I/dalvikvm(4816):   | sysTid=4816 nice=0 sched=0/0 cgrp=apps handle=1075106152
+07-02 18:53:55.009 I/dalvikvm(4816):   | state=R schedstat=( 0 0 0 ) utm=2 stm=3 core=0
+07-02 18:53:55.029 I/dalvikvm(4816):   #00  pc 00086cec  /system/lib/libdvm.so (dvmDumpNativeStack(DebugOutputTarget const*, int)+35)
+07-02 18:53:55.029 I/dalvikvm(4816):   #01  pc 00071dce  /system/lib/libdvm.so (dvmDumpThreadEx(DebugOutputTarget const*, Thread*, bool)+505)
+07-02 18:53:55.029 I/dalvikvm(4816):   #02  pc 00071f80  /system/lib/libdvm.so (dvmDumpThread(Thread*, bool)+27)
+07-02 18:53:55.029 I/dalvikvm(4816):   #03  pc 0005ba44  /system/lib/libdvm.so
+07-02 18:53:55.029 I/dalvikvm(4816):   #04  pc 00001db4  /system/lib/libnativehelper.so (jniRegisterNativeMethods+115)
+07-02 18:53:55.029 I/dalvikvm(4816):   #05  pc 00001a14  /system/lib/libqcomfm_jni.so (JNI_OnLoad+51)
+07-02 18:53:55.029 I/dalvikvm(4816):   #06  pc 0006ae06  /system/lib/libdvm.so (dvmLoadNativeCode(char const*, Object*, char**)+689)
+07-02 18:53:55.029 I/dalvikvm(4816):   #07  pc 00092e1a  /system/lib/libdvm.so
+07-02 18:53:55.029 I/dalvikvm(4816):   #08  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.029 I/dalvikvm(4816):   #09  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.029 I/dalvikvm(4816):   #10  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.029 I/dalvikvm(4816):   #11  pc 000865f0  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+611)
+07-02 18:53:55.029 I/dalvikvm(4816):   #12  pc 000866fc  /system/lib/libdvm.so (dvmCallMethod(Thread*, Method const*, Object*, JValue*, ...)+19)
+07-02 18:53:55.029 I/dalvikvm(4816):   #13  pc 000994be  /system/lib/libdvm.so (dvmInitClass+689)
+07-02 18:53:55.029 I/dalvikvm(4816):   #14  pc 00092632  /system/lib/libdvm.so
+07-02 18:53:55.029 I/dalvikvm(4816):   #15  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.029 I/dalvikvm(4816):   #16  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.039 I/dalvikvm(4816):   #17  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.039 I/dalvikvm(4816):   #18  pc 00086b1c  /system/lib/libdvm.so (dvmInvokeMethod(Object*, Method const*, ArrayObject*, ArrayObject*, ClassObject*, bool)+1039)
+07-02 18:53:55.039 I/dalvikvm(4816):   #19  pc 0009446a  /system/lib/libdvm.so
+07-02 18:53:55.039 I/dalvikvm(4816):   #20  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.039 I/dalvikvm(4816):   #21  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.039 I/dalvikvm(4816):   #22  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.039 I/dalvikvm(4816):   #23  pc 000865f0  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+611)
+07-02 18:53:55.039 I/dalvikvm(4816):   #24  pc 0005c914  /system/lib/libdvm.so
+07-02 18:53:55.039 I/dalvikvm(4816):   #25  pc 00056298  /system/lib/libandroid_runtime.so
+07-02 18:53:55.039 I/dalvikvm(4816):   #26  pc 000571ea  /system/lib/libandroid_runtime.so (android::AndroidRuntime::start(char const*, char const*)+529)
+07-02 18:53:55.039 I/dalvikvm(4816):   #27  pc 00000e8e  /system/bin/app_process
+07-02 18:53:55.039 I/dalvikvm(4816):   #28  pc 0000e8ea  /system/lib/libc.so (__libc_init+37)
+07-02 18:53:55.039 I/dalvikvm(4816):   at java.lang.Runtime.nativeLoad(Native Method)
+07-02 18:53:55.039 I/dalvikvm(4816):   at java.lang.Runtime.doLoad(Runtime.java:421)
+07-02 18:53:55.039 I/dalvikvm(4816):   at java.lang.Runtime.loadLibrary(Runtime.java:362)
+07-02 18:53:55.039 I/dalvikvm(4816):   at java.lang.System.loadLibrary(System.java:526)
+07-02 18:53:55.039 I/dalvikvm(4816):   at com.caf.fmradio.FMAdapterApp.<clinit>(FMAdapterApp.java:37)
+07-02 18:53:55.039 I/dalvikvm(4816):   at java.lang.Class.newInstanceImpl(Native Method)
+07-02 18:53:55.039 I/dalvikvm(4816):   at java.lang.Class.newInstance(Class.java:1208)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.app.Instrumentation.newApplication(Instrumentation.java:990)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.app.Instrumentation.newApplication(Instrumentation.java:975)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.app.LoadedApk.makeApplication(LoadedApk.java:509)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4440)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.app.ActivityThread.access$1500(ActivityThread.java:144)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1265)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.os.Handler.dispatchMessage(Handler.java:102)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.os.Looper.loop(Looper.java:136)
+07-02 18:53:55.039 I/dalvikvm(4816):   at android.app.ActivityThread.main(ActivityThread.java:5140)
+07-02 18:53:55.039 I/dalvikvm(4816):   at java.lang.reflect.Method.invokeNative(Native Method)
+07-02 18:53:55.039 I/dalvikvm(4816):   at java.lang.reflect.Method.invoke(Method.java:515)
+07-02 18:53:55.039 I/dalvikvm(4816):   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:795)
+07-02 18:53:55.039 I/dalvikvm(4816):   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:611)
+07-02 18:53:55.039 I/dalvikvm(4816):   at dalvik.system.NativeStart.main(Native Method)
+07-02 18:53:55.039 I/dalvikvm(4816): 
+07-02 18:53:55.039 E/dalvikvm(4816): VM aborting
+07-02 18:53:55.039 F/libc    (4816): Fatal signal 6 (SIGABRT) at 0x000012d0 (code=-6), thread 4816 (com.caf.fmradio)
+07-02 18:53:55.139 I/DEBUG   (109): *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+07-02 18:53:55.139 I/DEBUG   (109): Build fingerprint: 'samsung/cm_kylessopen/kylessopen:4.4.4/KTU84P/33d7d45ef6:userdebug/test-keys'
+07-02 18:53:55.139 I/DEBUG   (109): Revision: '0'
+07-02 18:53:55.139 I/DEBUG   (109): pid: 4816, tid: 4816, name: com.caf.fmradio  >>> com.caf.fmradio <<<
+07-02 18:53:55.139 I/DEBUG   (109): signal 6 (SIGABRT), code -6 (SI_TKILL), fault addr --------
+07-02 18:53:55.319 I/DEBUG   (109):     r0 00000000  r1 000012d0  r2 00000006  r3 00000000
+07-02 18:53:55.319 I/DEBUG   (109):     r4 000012d0  r5 00000016  r6 00000006  r7 0000010c
+07-02 18:53:55.319 I/DEBUG   (109):     r8 52d4d2ac  r9 bee4c29c  sl 52d4c9e1  fp 516ba0c8
+07-02 18:53:55.319 I/DEBUG   (109):     ip 0000001b  sp bee4c020  lr 401c0f07  pc 401d9a80  cpsr 000f0010
+07-02 18:53:55.319 I/DEBUG   (109):     d0  74726f6261204d56  d1  614e2e6d65747379
+07-02 18:53:55.319 I/DEBUG   (109):     d2  2e736f2e6c616e72  d3  6e4965746f67795a
+07-02 18:53:55.319 I/DEBUG   (109):     d4  64696f72646e6162  d5  656d69746e75725f
+07-02 18:53:55.319 I/DEBUG   (109):     d6  646e6128206f732e  d7  6e413a3a64696f72
+07-02 18:53:55.329 I/DEBUG   (109):     d8  0000000000000000  d9  0000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     d10 0000000000000000  d11 0000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     d12 0000000000000000  d13 0000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     d14 0000000000000000  d15 0000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     d16 72646e612e6d6f63  d17 65746e692e64696f
+07-02 18:53:55.329 I/DEBUG   (109):     d18 0000000000000000  d19 000000000000b4f0
+07-02 18:53:55.329 I/DEBUG   (109):     d20 0000000000000000  d21 0000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     d22 0000000000004000  d23 0000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     d24 0000000000000000  d25 410933303133302b
+07-02 18:53:55.329 I/DEBUG   (109):     d26 0000000000000000  d27 8000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     d28 0000000000004000  d29 0000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     d30 0000000000000000  d31 8000000000000000
+07-02 18:53:55.329 I/DEBUG   (109):     scr 60000010
+07-02 18:53:55.339 I/DEBUG   (109): 
+07-02 18:53:55.339 I/DEBUG   (109): backtrace:
+07-02 18:53:55.339 I/DEBUG   (109):     #00  pc 0002fa80  /system/lib/libc.so (tgkill+12)
+07-02 18:53:55.339 I/DEBUG   (109):     #01  pc 00016f03  /system/lib/libc.so (pthread_kill+86)
+07-02 18:53:55.339 I/DEBUG   (109):     #02  pc 00017157  /system/lib/libc.so (raise+10)
+07-02 18:53:55.339 I/DEBUG   (109):     #03  pc 0001574d  /system/lib/libc.so
+07-02 18:53:55.339 I/DEBUG   (109):     #04  pc 0002f334  /system/lib/libc.so (abort+4)
+07-02 18:53:55.339 I/DEBUG   (109):     #05  pc 00057af9  /system/lib/libdvm.so (dvmAbort+84)
+07-02 18:53:55.339 I/DEBUG   (109):     #06  pc 00001db7  /system/lib/libnativehelper.so (jniRegisterNativeMethods+118)
+07-02 18:53:55.339 I/DEBUG   (109):     #07  pc 00001a15  /system/lib/libqcomfm_jni.so (JNI_OnLoad+52)
+07-02 18:53:55.339 I/DEBUG   (109):     #08  pc 0006ae09  /system/lib/libdvm.so (dvmLoadNativeCode(char const*, Object*, char**)+692)
+07-02 18:53:55.339 I/DEBUG   (109):     #09  pc 00092e1b  /system/lib/libdvm.so
+07-02 18:53:55.339 I/DEBUG   (109):     #10  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.339 I/DEBUG   (109):     #11  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.339 I/DEBUG   (109):     #12  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.339 I/DEBUG   (109):     #13  pc 000865f1  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+612)
+07-02 18:53:55.339 I/DEBUG   (109):     #14  pc 000866fd  /system/lib/libdvm.so (dvmCallMethod(Thread*, Method const*, Object*, JValue*, ...)+20)
+07-02 18:53:55.339 I/DEBUG   (109):     #15  pc 000994bf  /system/lib/libdvm.so (dvmInitClass+690)
+07-02 18:53:55.339 I/DEBUG   (109):     #16  pc 00092633  /system/lib/libdvm.so
+07-02 18:53:55.339 I/DEBUG   (109):     #17  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.339 I/DEBUG   (109):     #18  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.339 I/DEBUG   (109):     #19  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.339 I/DEBUG   (109):     #20  pc 00086b1d  /system/lib/libdvm.so (dvmInvokeMethod(Object*, Method const*, ArrayObject*, ArrayObject*, ClassObject*, bool)+1040)
+07-02 18:53:55.339 I/DEBUG   (109):     #21  pc 0009446b  /system/lib/libdvm.so
+07-02 18:53:55.339 I/DEBUG   (109):     #22  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.339 I/DEBUG   (109):     #23  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.339 I/DEBUG   (109):     #24  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.339 I/DEBUG   (109):     #25  pc 000865f1  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+612)
+07-02 18:53:55.339 I/DEBUG   (109):     #26  pc 0005c915  /system/lib/libdvm.so
+07-02 18:53:55.339 I/DEBUG   (109):     #27  pc 0005629b  /system/lib/libandroid_runtime.so
+07-02 18:53:55.339 I/DEBUG   (109):     #28  pc 000571eb  /system/lib/libandroid_runtime.so (android::AndroidRuntime::start(char const*, char const*)+530)
+07-02 18:53:55.339 I/DEBUG   (109):     #29  pc 00000e8f  /system/bin/app_process
+07-02 18:53:55.339 I/DEBUG   (109):     #30  pc 0000e8ed  /system/lib/libc.so (__libc_init+40)
+07-02 18:53:55.339 I/DEBUG   (109):     #31  pc 00001004  /system/bin/app_process
+07-02 18:53:55.349 I/DEBUG   (109): 
+07-02 18:53:55.349 I/DEBUG   (109): stack:
+07-02 18:53:55.349 I/DEBUG   (109):          bee4bfe0  bee4c29c  [stack]
+07-02 18:53:55.349 I/DEBUG   (109):          bee4bfe4  52d4c9e1  /system/lib/libqcomfm_jni.so (JNI_OnLoad)
+07-02 18:53:55.349 I/DEBUG   (109):          bee4bfe8  516ba0c8  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4bfec  401df9ab  /system/lib/libc.so (snprintf+154)
+07-02 18:53:55.349 I/DEBUG   (109):          bee4bff0  00000000  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4bff4  bee4c07c  [stack]
+07-02 18:53:55.349 I/DEBUG   (109):          bee4bff8  00000000  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4bffc  00000000  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c000  4e72cf7c  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c004  00004000  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c008  bee4c08a  [stack]
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c00c  4e7d3e49  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c010  000001f9  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c014  ffff0208  [vectors]
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c018  bee4c084  [stack]
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c01c  000001ff  
+07-02 18:53:55.349 I/DEBUG   (109):     #00  bee4c020  000012d0  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c024  00000016  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c028  00000006  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c02c  0000001b  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c030  0000001b  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c034  401c0f07  /system/lib/libc.so (pthread_kill+90)
+07-02 18:53:55.349 I/DEBUG   (109):     #01  bee4c038  00000006  
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c03c  401de021  /system/lib/libc.so (_cleanup)
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c040  52d4f004  /system/lib/libqcomfm_jni.so
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c044  401c115b  /system/lib/libc.so (raise+14)
+07-02 18:53:55.349 I/DEBUG   (109):     #02  bee4c048  bee4c050  [stack]
+07-02 18:53:55.349 I/DEBUG   (109):          bee4c04c  401bf751  /system/lib/libc.so
+07-02 18:53:55.369 I/DEBUG   (109): 
+07-02 18:53:55.369 I/DEBUG   (109): memory near r1:
+07-02 18:53:55.369 I/DEBUG   (109):     000012b0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000012c0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000012d0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000012e0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000012f0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001300 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001310 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001320 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001330 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001340 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001350 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001360 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001370 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001380 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001390 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000013a0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109): 
+07-02 18:53:55.369 I/DEBUG   (109): memory near r4:
+07-02 18:53:55.369 I/DEBUG   (109):     000012b0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000012c0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000012d0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000012e0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000012f0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001300 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001310 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001320 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001330 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001340 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001350 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001360 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001370 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001380 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     00001390 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109):     000013a0 ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:55.369 I/DEBUG   (109): 
+07-02 18:53:55.369 I/DEBUG   (109): memory near r8:
+07-02 18:53:55.369 I/DEBUG   (109):     52d4d28c 614e4950 65766974 0000000a 74703e2d  
+07-02 18:53:55.369 I/DEBUG   (109):     52d4d29c 616e2079 65766974 69616620 0064656c  
+07-02 18:53:55.369 I/DEBUG   (109):     52d4d2ac 6d6f6371 726d662f 6f696461 526d462f  
+07-02 18:53:55.369 I/DEBUG   (109):     52d4d2bc 69656365 4a726576 0000494e 3a204d46  
+07-02 18:53:55.369 I/DEBUG   (109):     52d4d2cc 616f6c20 676e6964 4f435120 46204d4d  
+07-02 18:53:55.369 I/DEBUG   (109):     52d4d2dc 4e4a2d4d 00000a49 20494e4a 73726576  
+07-02 18:53:55.369 I/DEBUG   (109):     52d4d2ec 206e6f69 6d73696d 68637461 72726520  
+07-02 18:53:55.369 I/DEBUG   (109):     52d4d2fc 0000726f 20696e6a 70616461 20726574  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4d30c 76726573 20656369 69676572 61727473  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4d31c 6e6f6974 69616620 6572756c 7473202c  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4d32c 73757461 6425203a 00000000 75716361  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4d33c 46657269 74614e64 00657669 616a4c28  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4d34c 6c2f6176 2f676e61 69727453 293b676e  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4d35c 00000049 736f6c63 4e644665 76697461  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4d36c 00000065 49294928 00000000 46746567  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4d37c 4e716572 76697461 00000065 46746573  
+07-02 18:53:55.379 I/DEBUG   (109): 
+07-02 18:53:55.379 I/DEBUG   (109): memory near r9:
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c27c 00000000 00000000 ca0eed99 52d4f004  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c28c 400e3e80 00000000 403a7db9 bee4c2c0  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c29c 512e0a80 419a12d8 400e3e00 52d4cb50  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c2ac 00000000 00000001 419a12d8 bee4c340  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c2bc 52d4ca19 400e3e80 41c75d88 419a12d8  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c2cc 516ba0a0 419a31c0 41912e0b 00000001  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c2dc 4014c0ac 00000000 4021639c 4008b530  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c2ec 4001d004 516ba0d4 516ba0d8 00000001  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c2fc bee4c308 4014c678 00000004 516ba0c0  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c30c 516ba0c8 40216198 ca0eed99 516ba0c8  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c31c 516ba0a0 41c775e0 4008b540 41c75d88  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c32c 00000000 00000006 40108bb0 bee4c4e0  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c33c 4193ae1f 00000000 4008b530 4dbb71aa  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c34c 40108be4 4008b530 419c9638 418c7680  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c35c 418d09a4 cbcacccd 4008b530 5175a000  
+07-02 18:53:55.379 I/DEBUG   (109):     bee4c36c 4ce6a8d8 00000000 bee4c3e0 fffffec4  
+07-02 18:53:55.379 I/DEBUG   (109): 
+07-02 18:53:55.379 I/DEBUG   (109): memory near sl:
+07-02 18:53:55.379 I/DEBUG   (109):     52d4c9c0 f04f47a0 e7f830ff 4a044903 447a4479  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4c9d0 f000231b bf00b84d 000008dc 00002632  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4c9e0 4d19b530 46044a19 b083447d 447a4629  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4c9f0 f7fe2006 6823efba 699b2206 f2c04620  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca00 46690201 b9704798 4a124911 44799800  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca10 231b447a e826f7ff db0d2800 f2c02006  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca20 b0030001 4a0cbd30 20064629 f7fe447a  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca30 f04fef9c e7f430ff 46034a08 447a4629  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca40 f7fe2006 e7f4ef92 00000164 000008d6  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca50 0000089a 000025f0 000008b4 000008be  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca60 46c04778 e59fc000 e08cf00f ffffefc4  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca70 46c04778 e59fc000 e08cf00f ffffefe4  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca80 7ffff04c 8002abb0 7ffff100 8001aab0  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4ca90 7ffff1f4 8015acb0 7ffff258 8015aab0  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4caa0 7ffff348 8016abb0 7ffff38c 8016a9b0  
+07-02 18:53:55.379 I/DEBUG   (109):     52d4cab0 7ffff3cc 8001a8b0 7ffff3ec 800baab0  
+07-02 18:53:55.379 I/DEBUG   (109): 
+07-02 18:53:55.379 I/DEBUG   (109): memory near fp:
+07-02 18:53:55.379 I/DEBUG   (109):     516ba0a8 2f62696c 7162696c 666d6f63 6e6a5f6d  
+07-02 18:53:55.379 I/DEBUG   (109):     516ba0b8 6f732e69 6f732e00 79532e00 00000023  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba0c8 516ba0e8 4001d004 41c75d88 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba0d8 00000000 00000001 00000000 0000002b  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba0e8 7379732f 2f6d6574 2f62696c 7162696c  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba0f8 666d6f63 6e6a5f6d 6f732e69 006e6f00  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba108 00000020 0000010b 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba118 e7510301 400ecdc0 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba128 45094043 512e1dd8 e20b4fc4 51682628  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba138 8c767145 400ecd30 6d12e365 512e2d88  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba148 8a1dad04 516ba0c8 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba158 13a69869 512df920 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba168 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba178 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba188 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     516ba198 00000000 00000000 d905fb32 51681ab8  
+07-02 18:53:55.389 I/DEBUG   (109): 
+07-02 18:53:55.389 I/DEBUG   (109): memory near sp:
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c000 4e72cf7c 00004000 bee4c08a 4e7d3e49  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c010 000001f9 ffff0208 bee4c084 000001ff  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c020 000012d0 00000016 00000006 0000001b  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c030 0000001b 401c0f07 00000006 401de021  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c040 52d4f004 401c115b bee4c050 401bf751  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c050 ffffffdf 40212234 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c060 401ddec1 401c38e3 419a12d8 419a12d8  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c070 bee4c084 401d9338 00000000 418ffafd  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c080 0000005d 6c756e28 0000296c 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c090 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c0a0 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c0b0 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c0c0 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c0d0 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c0e0 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109):     bee4c0f0 00000000 00000000 00000000 00000000  
+07-02 18:53:55.389 I/DEBUG   (109): 
+07-02 18:53:55.389 I/DEBUG   (109): code around pc:
+07-02 18:53:55.389 I/DEBUG   (109):     401d9a60 e8bd00f0 e3700a01 912fff1e e2600000  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9a70 ea00aeff e92d50f0 e3a07f43 ef000000  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9a80 e8bd50f0 e3700a01 912fff1e e2600000  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9a90 ea00aef7 e92d50f0 e3a070ee ef000000  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9aa0 e8bd50f0 e3700a01 912fff1e e2600000  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9ab0 ea00aeef f200429a bf0080cf f000f891  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9ac0 4001e92d f040f891 d3532a10 0301ea80  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9ad0 0303f013 806ef000 d3262ae0 0300f1c0  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9ae0 030ff013 eba2d021 ea5f0203 bf447cc3  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9af0 eb01f811 eb01f800 f811bf21 f811cb01  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9b00 f800eb01 f800cb01 ea5feb01 da037c43  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9b10 080df9a1 083df980 f921d303 f900070d  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9b20 f891071d f891f000 3a40f040 f891d30f  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9b30 f891f080 f921f0c0 f921020d f891420d  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9b40 3a40f0c0 020df900 420df900 f102d2f3  
+07-02 18:53:55.389 I/DEBUG   (109):     401d9b50 3a200240 f921d305 3a20020d 020df900  
+07-02 18:53:55.389 I/DEBUG   (109): 
+07-02 18:53:55.389 I/DEBUG   (109): code around lr:
+07-02 18:53:55.389 I/DEBUG   (109):     401c0ee4 f882f002 46206005 460cbd70 6a244810  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0ef4 f7f74478 f016ef3c 4621eff6 f0184632  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f04 3001edb8 f002d005 2400f86f 46206005  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f14 f002bd70 6804f869 f866f002 46206005  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f24 bf00bd70 000554f8 000554ec 000554d6  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f34 000554c0 bf72f7ff e92d4b3f 4a3f43f0  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f44 b08b447b 4607589c 460d6823 f0029309  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f54 f8d0f84b b1958000 f0194628 280ffc7f  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f64 d9144606 f840f002 20224684 8000f8cc  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f74 68239d09 d15c429d e8bdb00b 271683f0  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f84 f832f002 46384602 8000f8c2 f7ffe7f0  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0f94 42b8ffd1 482ad045 f7f74478 4829eee6  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0fa4 e0014478 d0084287 28006800 4826d1fa  
+07-02 18:53:55.389 I/DEBUG   (109):     401c0fb4 44782703 eedaf7f7 4824e7e2 44786a3f  
+07-02 18:53:55.399 I/DEBUG   (109):     401c0fc4 eed4f7f7 f10d4a22 463b0904 21204648  
+07-02 18:53:55.399 I/DEBUG   (109):     401c0fd4 f01e447a 4648fc9b f02a2101 f1b0fc2f  
+07-02 18:53:55.579 I/BootReceiver(542): Copying /data/tombstones/tombstone_02 to DropBox (SYSTEM_TOMBSTONE)
+07-02 18:53:55.629 D/Zygote  (113): Process 4816 terminated by signal (6)
+07-02 18:53:55.699 I/ActivityManager(542): Process com.caf.fmradio (pid 4816) has died.
+07-02 18:53:55.719 V/Zygote  (4830): Switching descriptor 32 to /dev/null
+07-02 18:53:55.719 V/Zygote  (4830): Switching descriptor 9 to /dev/null
+07-02 18:53:55.729 I/ActivityManager(542): Start proc com.caf.fmradio for activity com.caf.fmradio/.FMRadio: pid=4830 uid=10019 gids={50019, 3002, 3001, 3003, 1028, 1015}
+07-02 18:53:55.919 D/ActivityThread(4830): handleBindApplication:com.caf.fmradio
+07-02 18:53:55.919 D/ActivityThread(4830): setTargetHeapUtilization:0.25
+07-02 18:53:55.919 D/ActivityThread(4830): setTargetHeapMinFree:524288
+07-02 18:53:55.969 D/FMAdapterApp(4830): Loading FM-JNI Library
+07-02 18:53:55.969 E/fmradio (4830): FM : loading QCOMM FM-JNI
+07-02 18:53:55.969 E/dalvikvm(4830): JNI posting fatal error: Native registration unable to find class 'qcom/fmradio/FmReceiverJNI'; aborting...
+07-02 18:53:55.969 I/dalvikvm(4830): "main" prio=5 tid=1 NATIVE
+07-02 18:53:55.969 I/dalvikvm(4830):   | group="main" sCount=0 dsCount=0 obj=0x419b4de0 self=0x4008b530
+07-02 18:53:55.969 I/dalvikvm(4830):   | sysTid=4830 nice=0 sched=0/0 cgrp=apps handle=1075106152
+07-02 18:53:55.969 I/dalvikvm(4830):   | state=R schedstat=( 0 0 0 ) utm=3 stm=1 core=0
+07-02 18:53:55.989 I/dalvikvm(4830):   #00  pc 00086cec  /system/lib/libdvm.so (dvmDumpNativeStack(DebugOutputTarget const*, int)+35)
+07-02 18:53:55.989 I/dalvikvm(4830):   #01  pc 00071dce  /system/lib/libdvm.so (dvmDumpThreadEx(DebugOutputTarget const*, Thread*, bool)+505)
+07-02 18:53:55.989 I/dalvikvm(4830):   #02  pc 00071f80  /system/lib/libdvm.so (dvmDumpThread(Thread*, bool)+27)
+07-02 18:53:55.989 I/dalvikvm(4830):   #03  pc 0005ba44  /system/lib/libdvm.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #04  pc 00001db4  /system/lib/libnativehelper.so (jniRegisterNativeMethods+115)
+07-02 18:53:55.989 I/dalvikvm(4830):   #05  pc 00001a14  /system/lib/libqcomfm_jni.so (JNI_OnLoad+51)
+07-02 18:53:55.989 I/dalvikvm(4830):   #06  pc 0006ae06  /system/lib/libdvm.so (dvmLoadNativeCode(char const*, Object*, char**)+689)
+07-02 18:53:55.989 I/dalvikvm(4830):   #07  pc 00092e1a  /system/lib/libdvm.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #08  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #09  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.989 I/dalvikvm(4830):   #10  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.989 I/dalvikvm(4830):   #11  pc 000865f0  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+611)
+07-02 18:53:55.989 I/dalvikvm(4830):   #12  pc 000866fc  /system/lib/libdvm.so (dvmCallMethod(Thread*, Method const*, Object*, JValue*, ...)+19)
+07-02 18:53:55.989 I/dalvikvm(4830):   #13  pc 000994be  /system/lib/libdvm.so (dvmInitClass+689)
+07-02 18:53:55.989 I/dalvikvm(4830):   #14  pc 00092632  /system/lib/libdvm.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #15  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #16  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.989 I/dalvikvm(4830):   #17  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.989 I/dalvikvm(4830):   #18  pc 00086b1c  /system/lib/libdvm.so (dvmInvokeMethod(Object*, Method const*, ArrayObject*, ArrayObject*, ClassObject*, bool)+1039)
+07-02 18:53:55.989 I/dalvikvm(4830):   #19  pc 0009446a  /system/lib/libdvm.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #20  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #21  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:55.989 I/dalvikvm(4830):   #22  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:55.989 I/dalvikvm(4830):   #23  pc 000865f0  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+611)
+07-02 18:53:55.989 I/dalvikvm(4830):   #24  pc 0005c914  /system/lib/libdvm.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #25  pc 00056298  /system/lib/libandroid_runtime.so
+07-02 18:53:55.989 I/dalvikvm(4830):   #26  pc 000571ea  /system/lib/libandroid_runtime.so (android::AndroidRuntime::start(char const*, char const*)+529)
+07-02 18:53:55.989 I/dalvikvm(4830):   #27  pc 00000e8e  /system/bin/app_process
+07-02 18:53:55.989 I/dalvikvm(4830):   #28  pc 0000e8ea  /system/lib/libc.so (__libc_init+37)
+07-02 18:53:55.989 I/dalvikvm(4830):   at java.lang.Runtime.nativeLoad(Native Method)
+07-02 18:53:55.989 I/dalvikvm(4830):   at java.lang.Runtime.doLoad(Runtime.java:421)
+07-02 18:53:55.989 I/dalvikvm(4830):   at java.lang.Runtime.loadLibrary(Runtime.java:362)
+07-02 18:53:55.999 I/dalvikvm(4830):   at java.lang.System.loadLibrary(System.java:526)
+07-02 18:53:55.999 I/dalvikvm(4830):   at com.caf.fmradio.FMAdapterApp.<clinit>(FMAdapterApp.java:37)
+07-02 18:53:55.999 I/dalvikvm(4830):   at java.lang.Class.newInstanceImpl(Native Method)
+07-02 18:53:55.999 I/dalvikvm(4830):   at java.lang.Class.newInstance(Class.java:1208)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.app.Instrumentation.newApplication(Instrumentation.java:990)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.app.Instrumentation.newApplication(Instrumentation.java:975)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.app.LoadedApk.makeApplication(LoadedApk.java:509)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4440)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.app.ActivityThread.access$1500(ActivityThread.java:144)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1265)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.os.Handler.dispatchMessage(Handler.java:102)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.os.Looper.loop(Looper.java:136)
+07-02 18:53:55.999 I/dalvikvm(4830):   at android.app.ActivityThread.main(ActivityThread.java:5140)
+07-02 18:53:55.999 I/dalvikvm(4830):   at java.lang.reflect.Method.invokeNative(Native Method)
+07-02 18:53:55.999 I/dalvikvm(4830):   at java.lang.reflect.Method.invoke(Method.java:515)
+07-02 18:53:55.999 I/dalvikvm(4830):   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:795)
+07-02 18:53:55.999 I/dalvikvm(4830):   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:611)
+07-02 18:53:55.999 I/dalvikvm(4830):   at dalvik.system.NativeStart.main(Native Method)
+07-02 18:53:55.999 I/dalvikvm(4830): 
+07-02 18:53:55.999 E/dalvikvm(4830): VM aborting
+07-02 18:53:55.999 F/libc    (4830): Fatal signal 6 (SIGABRT) at 0x000012de (code=-6), thread 4830 (com.caf.fmradio)
+07-02 18:53:56.099 I/DEBUG   (109): *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+07-02 18:53:56.099 I/DEBUG   (109): Build fingerprint: 'samsung/cm_kylessopen/kylessopen:4.4.4/KTU84P/33d7d45ef6:userdebug/test-keys'
+07-02 18:53:56.099 I/DEBUG   (109): Revision: '0'
+07-02 18:53:56.099 I/DEBUG   (109): pid: 4830, tid: 4830, name: com.caf.fmradio  >>> com.caf.fmradio <<<
+07-02 18:53:56.099 I/DEBUG   (109): signal 6 (SIGABRT), code -6 (SI_TKILL), fault addr --------
+07-02 18:53:56.299 I/DEBUG   (109):     r0 00000000  r1 000012de  r2 00000006  r3 00000000
+07-02 18:53:56.309 I/DEBUG   (109):     r4 000012de  r5 00000016  r6 00000006  r7 0000010c
+07-02 18:53:56.309 I/DEBUG   (109):     r8 52d4d2ac  r9 bee4c29c  sl 52d4c9e1  fp 516ba148
+07-02 18:53:56.309 I/DEBUG   (109):     ip 0000001b  sp bee4c020  lr 401c0f07  pc 401d9a80  cpsr 000f0010
+07-02 18:53:56.309 I/DEBUG   (109):     d0  74726f6261204d56  d1  614e2e6d65747379
+07-02 18:53:56.309 I/DEBUG   (109):     d2  2e736f2e6c616e72  d3  6e4965746f67795a
+07-02 18:53:56.309 I/DEBUG   (109):     d4  64696f72646e6162  d5  656d69746e75725f
+07-02 18:53:56.309 I/DEBUG   (109):     d6  646e6128206f732e  d7  6e413a3a64696f72
+07-02 18:53:56.309 I/DEBUG   (109):     d8  0000000000000000  d9  0000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     d10 0000000000000000  d11 0000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     d12 0000000000000000  d13 0000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     d14 0000000000000000  d15 0000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     d16 72646e612e6d6f63  d17 65746e692e64696f
+07-02 18:53:56.309 I/DEBUG   (109):     d18 0000000000000000  d19 000000000000b4f0
+07-02 18:53:56.309 I/DEBUG   (109):     d20 0000000000000000  d21 0000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     d22 0000000000004000  d23 0000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     d24 0000000000000000  d25 410933303133302b
+07-02 18:53:56.309 I/DEBUG   (109):     d26 0000000000000000  d27 8000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     d28 0000000000004000  d29 0000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     d30 0000000000000000  d31 8000000000000000
+07-02 18:53:56.309 I/DEBUG   (109):     scr 60000010
+07-02 18:53:56.309 I/DEBUG   (109): 
+07-02 18:53:56.309 I/DEBUG   (109): backtrace:
+07-02 18:53:56.319 I/DEBUG   (109):     #00  pc 0002fa80  /system/lib/libc.so (tgkill+12)
+07-02 18:53:56.319 I/DEBUG   (109):     #01  pc 00016f03  /system/lib/libc.so (pthread_kill+86)
+07-02 18:53:56.319 I/DEBUG   (109):     #02  pc 00017157  /system/lib/libc.so (raise+10)
+07-02 18:53:56.319 I/DEBUG   (109):     #03  pc 0001574d  /system/lib/libc.so
+07-02 18:53:56.319 I/DEBUG   (109):     #04  pc 0002f334  /system/lib/libc.so (abort+4)
+07-02 18:53:56.319 I/DEBUG   (109):     #05  pc 00057af9  /system/lib/libdvm.so (dvmAbort+84)
+07-02 18:53:56.319 I/DEBUG   (109):     #06  pc 00001db7  /system/lib/libnativehelper.so (jniRegisterNativeMethods+118)
+07-02 18:53:56.319 I/DEBUG   (109):     #07  pc 00001a15  /system/lib/libqcomfm_jni.so (JNI_OnLoad+52)
+07-02 18:53:56.319 I/DEBUG   (109):     #08  pc 0006ae09  /system/lib/libdvm.so (dvmLoadNativeCode(char const*, Object*, char**)+692)
+07-02 18:53:56.319 I/DEBUG   (109):     #09  pc 00092e1b  /system/lib/libdvm.so
+07-02 18:53:56.319 I/DEBUG   (109):     #10  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:56.319 I/DEBUG   (109):     #11  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:56.319 I/DEBUG   (109):     #12  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:56.319 I/DEBUG   (109):     #13  pc 000865f1  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+612)
+07-02 18:53:56.319 I/DEBUG   (109):     #14  pc 000866fd  /system/lib/libdvm.so (dvmCallMethod(Thread*, Method const*, Object*, JValue*, ...)+20)
+07-02 18:53:56.319 I/DEBUG   (109):     #15  pc 000994bf  /system/lib/libdvm.so (dvmInitClass+690)
+07-02 18:53:56.319 I/DEBUG   (109):     #16  pc 00092633  /system/lib/libdvm.so
+07-02 18:53:56.319 I/DEBUG   (109):     #17  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:56.319 I/DEBUG   (109):     #18  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:56.319 I/DEBUG   (109):     #19  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:56.319 I/DEBUG   (109):     #20  pc 00086b1d  /system/lib/libdvm.so (dvmInvokeMethod(Object*, Method const*, ArrayObject*, ArrayObject*, ClassObject*, bool)+1040)
+07-02 18:53:56.319 I/DEBUG   (109):     #21  pc 0009446b  /system/lib/libdvm.so
+07-02 18:53:56.319 I/DEBUG   (109):     #22  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:56.319 I/DEBUG   (109):     #23  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:56.319 I/DEBUG   (109):     #24  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:56.319 I/DEBUG   (109):     #25  pc 000865f1  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+612)
+07-02 18:53:56.319 I/DEBUG   (109):     #26  pc 0005c915  /system/lib/libdvm.so
+07-02 18:53:56.319 I/DEBUG   (109):     #27  pc 0005629b  /system/lib/libandroid_runtime.so
+07-02 18:53:56.319 I/DEBUG   (109):     #28  pc 000571eb  /system/lib/libandroid_runtime.so (android::AndroidRuntime::start(char const*, char const*)+530)
+07-02 18:53:56.319 I/DEBUG   (109):     #29  pc 00000e8f  /system/bin/app_process
+07-02 18:53:56.319 I/DEBUG   (109):     #30  pc 0000e8ed  /system/lib/libc.so (__libc_init+40)
+07-02 18:53:56.319 I/DEBUG   (109):     #31  pc 00001004  /system/bin/app_process
+07-02 18:53:56.319 I/DEBUG   (109): 
+07-02 18:53:56.319 I/DEBUG   (109): stack:
+07-02 18:53:56.319 I/DEBUG   (109):          bee4bfe0  bee4c29c  [stack]
+07-02 18:53:56.319 I/DEBUG   (109):          bee4bfe4  52d4c9e1  /system/lib/libqcomfm_jni.so (JNI_OnLoad)
+07-02 18:53:56.319 I/DEBUG   (109):          bee4bfe8  516ba148  
+07-02 18:53:56.319 I/DEBUG   (109):          bee4bfec  401df9ab  /system/lib/libc.so (snprintf+154)
+07-02 18:53:56.329 I/DEBUG   (109):          bee4bff0  00000000  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4bff4  bee4c07c  [stack]
+07-02 18:53:56.329 I/DEBUG   (109):          bee4bff8  00000000  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4bffc  00000000  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c000  4e72cf7c  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c004  00004000  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c008  bee4c08a  [stack]
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c00c  4e7d3e49  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c010  000001f9  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c014  ffff0208  [vectors]
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c018  bee4c084  [stack]
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c01c  000001ff  
+07-02 18:53:56.329 I/DEBUG   (109):     #00  bee4c020  000012de  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c024  00000016  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c028  00000006  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c02c  0000001b  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c030  0000001b  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c034  401c0f07  /system/lib/libc.so (pthread_kill+90)
+07-02 18:53:56.329 I/DEBUG   (109):     #01  bee4c038  00000006  
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c03c  401de021  /system/lib/libc.so (_cleanup)
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c040  52d4f004  /system/lib/libqcomfm_jni.so
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c044  401c115b  /system/lib/libc.so (raise+14)
+07-02 18:53:56.329 I/DEBUG   (109):     #02  bee4c048  bee4c050  [stack]
+07-02 18:53:56.329 I/DEBUG   (109):          bee4c04c  401bf751  /system/lib/libc.so
+07-02 18:53:56.339 I/DEBUG   (109): 
+07-02 18:53:56.339 I/DEBUG   (109): memory near r1:
+07-02 18:53:56.349 I/DEBUG   (109):     000012bc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000012cc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000012dc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000012ec ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000012fc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000130c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000131c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000132c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000133c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000134c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000135c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000136c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000137c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000138c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000139c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000013ac ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109): 
+07-02 18:53:56.349 I/DEBUG   (109): memory near r4:
+07-02 18:53:56.349 I/DEBUG   (109):     000012bc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000012cc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000012dc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000012ec ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000012fc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000130c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000131c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000132c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000133c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000134c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000135c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000136c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000137c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000138c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     0000139c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109):     000013ac ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:56.349 I/DEBUG   (109): 
+07-02 18:53:56.349 I/DEBUG   (109): memory near r8:
+07-02 18:53:56.349 I/DEBUG   (109):     52d4d28c 614e4950 65766974 0000000a 74703e2d  
+07-02 18:53:56.349 I/DEBUG   (109):     52d4d29c 616e2079 65766974 69616620 0064656c  
+07-02 18:53:56.349 I/DEBUG   (109):     52d4d2ac 6d6f6371 726d662f 6f696461 526d462f  
+07-02 18:53:56.349 I/DEBUG   (109):     52d4d2bc 69656365 4a726576 0000494e 3a204d46  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d2cc 616f6c20 676e6964 4f435120 46204d4d  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d2dc 4e4a2d4d 00000a49 20494e4a 73726576  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d2ec 206e6f69 6d73696d 68637461 72726520  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d2fc 0000726f 20696e6a 70616461 20726574  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d30c 76726573 20656369 69676572 61727473  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d31c 6e6f6974 69616620 6572756c 7473202c  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d32c 73757461 6425203a 00000000 75716361  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d33c 46657269 74614e64 00657669 616a4c28  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d34c 6c2f6176 2f676e61 69727453 293b676e  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d35c 00000049 736f6c63 4e644665 76697461  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d36c 00000065 49294928 00000000 46746567  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4d37c 4e716572 76697461 00000065 46746573  
+07-02 18:53:56.359 I/DEBUG   (109): 
+07-02 18:53:56.359 I/DEBUG   (109): memory near r9:
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c27c 00000000 00000000 ca0eed99 52d4f004  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c28c 400e3e80 00000000 403a7db9 bee4c2c0  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c29c 512e0a80 419a12d8 400e3e00 52d4cb50  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c2ac 00000000 00000001 419a12d8 bee4c340  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c2bc 52d4ca19 400e3e80 41c76d10 419a12d8  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c2cc 516ba120 419a31c0 41912e0b 00000001  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c2dc 4014c0ac 00000000 4021639c 4008b530  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c2ec 4001d004 516ba154 516ba158 00000001  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c2fc bee4c308 4014c678 00000004 4000af38  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c30c 4000af40 40216198 ca0eed99 4000af40  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c31c 516ba120 41c78568 4008b540 41c76d10  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c32c 00000000 00000006 40108bb0 bee4c4e0  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c33c 4193ae1f 00000000 4008b530 4dbb71aa  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c34c 40108be4 4008b530 419c9638 418c7680  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c35c 418d09a4 cbcacccd 4008b530 5175a000  
+07-02 18:53:56.359 I/DEBUG   (109):     bee4c36c 4ce6a8d8 00000000 bee4c3e0 fffffec4  
+07-02 18:53:56.359 I/DEBUG   (109): 
+07-02 18:53:56.359 I/DEBUG   (109): memory near sl:
+07-02 18:53:56.359 I/DEBUG   (109):     52d4c9c0 f04f47a0 e7f830ff 4a044903 447a4479  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4c9d0 f000231b bf00b84d 000008dc 00002632  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4c9e0 4d19b530 46044a19 b083447d 447a4629  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4c9f0 f7fe2006 6823efba 699b2206 f2c04620  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca00 46690201 b9704798 4a124911 44799800  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca10 231b447a e826f7ff db0d2800 f2c02006  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca20 b0030001 4a0cbd30 20064629 f7fe447a  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca30 f04fef9c e7f430ff 46034a08 447a4629  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca40 f7fe2006 e7f4ef92 00000164 000008d6  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca50 0000089a 000025f0 000008b4 000008be  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca60 46c04778 e59fc000 e08cf00f ffffefc4  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca70 46c04778 e59fc000 e08cf00f ffffefe4  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca80 7ffff04c 8002abb0 7ffff100 8001aab0  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4ca90 7ffff1f4 8015acb0 7ffff258 8015aab0  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4caa0 7ffff348 8016abb0 7ffff38c 8016a9b0  
+07-02 18:53:56.359 I/DEBUG   (109):     52d4cab0 7ffff3cc 8001a8b0 7ffff3ec 800baab0  
+07-02 18:53:56.359 I/DEBUG   (109): 
+07-02 18:53:56.359 I/DEBUG   (109): memory near fp:
+07-02 18:53:56.359 I/DEBUG   (109):     516ba128 2f62696c 7162696c 666d6f63 6e6a5f6d  
+07-02 18:53:56.359 I/DEBUG   (109):     516ba138 6f732e69 40216100 79532e67 00000023  
+07-02 18:53:56.359 I/DEBUG   (109):     516ba148 516ba168 4001d004 41c76d10 00000000  
+07-02 18:53:56.359 I/DEBUG   (109):     516ba158 00000000 00000001 00000000 0000002b  
+07-02 18:53:56.359 I/DEBUG   (109):     516ba168 7379732f 2f6d6574 2f62696c 7162696c  
+07-02 18:53:56.359 I/DEBUG   (109):     516ba178 666d6f63 6e6a5f6d 6f732e69 006e6f00  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba188 00000020 0000010b 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba198 e7510301 400ecdc0 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba1a8 45094043 512e1dd8 e20b4fc4 51682628  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba1b8 8c767145 400ecd30 6d12e365 512e2d88  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba1c8 8a1dad04 516ba148 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba1d8 13a69869 512df920 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba1e8 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba1f8 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba208 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     516ba218 00000000 00000000 d905fb32 51681ab8  
+07-02 18:53:56.369 I/DEBUG   (109): 
+07-02 18:53:56.369 I/DEBUG   (109): memory near sp:
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c000 4e72cf7c 00004000 bee4c08a 4e7d3e49  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c010 000001f9 ffff0208 bee4c084 000001ff  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c020 000012de 00000016 00000006 0000001b  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c030 0000001b 401c0f07 00000006 401de021  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c040 52d4f004 401c115b bee4c050 401bf751  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c050 ffffffdf 40212234 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c060 401ddec1 401c38e3 419a12d8 419a12d8  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c070 bee4c084 401d9338 00000000 418ffafd  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c080 0000005d 6c756e28 0000296c 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c090 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c0a0 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c0b0 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c0c0 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c0d0 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c0e0 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109):     bee4c0f0 00000000 00000000 00000000 00000000  
+07-02 18:53:56.369 I/DEBUG   (109): 
+07-02 18:53:56.369 I/DEBUG   (109): code around pc:
+07-02 18:53:56.369 I/DEBUG   (109):     401d9a60 e8bd00f0 e3700a01 912fff1e e2600000  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9a70 ea00aeff e92d50f0 e3a07f43 ef000000  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9a80 e8bd50f0 e3700a01 912fff1e e2600000  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9a90 ea00aef7 e92d50f0 e3a070ee ef000000  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9aa0 e8bd50f0 e3700a01 912fff1e e2600000  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9ab0 ea00aeef f200429a bf0080cf f000f891  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9ac0 4001e92d f040f891 d3532a10 0301ea80  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9ad0 0303f013 806ef000 d3262ae0 0300f1c0  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9ae0 030ff013 eba2d021 ea5f0203 bf447cc3  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9af0 eb01f811 eb01f800 f811bf21 f811cb01  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9b00 f800eb01 f800cb01 ea5feb01 da037c43  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9b10 080df9a1 083df980 f921d303 f900070d  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9b20 f891071d f891f000 3a40f040 f891d30f  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9b30 f891f080 f921f0c0 f921020d f891420d  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9b40 3a40f0c0 020df900 420df900 f102d2f3  
+07-02 18:53:56.369 I/DEBUG   (109):     401d9b50 3a200240 f921d305 3a20020d 020df900  
+07-02 18:53:56.369 I/DEBUG   (109): 
+07-02 18:53:56.369 I/DEBUG   (109): code around lr:
+07-02 18:53:56.369 I/DEBUG   (109):     401c0ee4 f882f002 46206005 460cbd70 6a244810  
+07-02 18:53:56.369 I/DEBUG   (109):     401c0ef4 f7f74478 f016ef3c 4621eff6 f0184632  
+07-02 18:53:56.369 I/DEBUG   (109):     401c0f04 3001edb8 f002d005 2400f86f 46206005  
+07-02 18:53:56.369 I/DEBUG   (109):     401c0f14 f002bd70 6804f869 f866f002 46206005  
+07-02 18:53:56.369 I/DEBUG   (109):     401c0f24 bf00bd70 000554f8 000554ec 000554d6  
+07-02 18:53:56.369 I/DEBUG   (109):     401c0f34 000554c0 bf72f7ff e92d4b3f 4a3f43f0  
+07-02 18:53:56.369 I/DEBUG   (109):     401c0f44 b08b447b 4607589c 460d6823 f0029309  
+07-02 18:53:56.369 I/DEBUG   (109):     401c0f54 f8d0f84b b1958000 f0194628 280ffc7f  
+07-02 18:53:56.379 I/DEBUG   (109):     401c0f64 d9144606 f840f002 20224684 8000f8cc  
+07-02 18:53:56.379 I/DEBUG   (109):     401c0f74 68239d09 d15c429d e8bdb00b 271683f0  
+07-02 18:53:56.379 I/DEBUG   (109):     401c0f84 f832f002 46384602 8000f8c2 f7ffe7f0  
+07-02 18:53:56.379 I/DEBUG   (109):     401c0f94 42b8ffd1 482ad045 f7f74478 4829eee6  
+07-02 18:53:56.379 I/DEBUG   (109):     401c0fa4 e0014478 d0084287 28006800 4826d1fa  
+07-02 18:53:56.379 I/DEBUG   (109):     401c0fb4 44782703 eedaf7f7 4824e7e2 44786a3f  
+07-02 18:53:56.379 I/DEBUG   (109):     401c0fc4 eed4f7f7 f10d4a22 463b0904 21204648  
+07-02 18:53:56.379 I/DEBUG   (109):     401c0fd4 f01e447a 4648fc9b f02a2101 f1b0fc2f  
+07-02 18:53:56.559 I/BootReceiver(542): Copying /data/tombstones/tombstone_03 to DropBox (SYSTEM_TOMBSTONE)
+07-02 18:53:56.609 D/Zygote  (113): Process 4830 terminated by signal (6)
+07-02 18:53:56.669 I/ActivityManager(542): Process com.caf.fmradio (pid 4830) has died.
+07-02 18:53:56.689 V/Zygote  (4845): Switching descriptor 32 to /dev/null
+07-02 18:53:56.689 V/Zygote  (4845): Switching descriptor 9 to /dev/null
+07-02 18:53:56.689 I/ActivityManager(542): Start proc com.caf.fmradio for activity com.caf.fmradio/.FMRadio: pid=4845 uid=10019 gids={50019, 3002, 3001, 3003, 1028, 1015}
+07-02 18:53:56.899 D/ActivityThread(4845): handleBindApplication:com.caf.fmradio
+07-02 18:53:56.899 D/ActivityThread(4845): setTargetHeapUtilization:0.25
+07-02 18:53:56.909 D/ActivityThread(4845): setTargetHeapMinFree:524288
+07-02 18:53:56.939 D/FMAdapterApp(4845): Loading FM-JNI Library
+07-02 18:53:56.949 E/fmradio (4845): FM : loading QCOMM FM-JNI
+07-02 18:53:56.949 E/dalvikvm(4845): JNI posting fatal error: Native registration unable to find class 'qcom/fmradio/FmReceiverJNI'; aborting...
+07-02 18:53:56.959 I/dalvikvm(4845): "main" prio=5 tid=1 NATIVE
+07-02 18:53:56.959 I/dalvikvm(4845):   | group="main" sCount=0 dsCount=0 obj=0x419b4de0 self=0x4008b530
+07-02 18:53:56.959 I/dalvikvm(4845):   | sysTid=4845 nice=0 sched=0/0 cgrp=apps handle=1075106152
+07-02 18:53:56.959 I/dalvikvm(4845):   | state=R schedstat=( 0 0 0 ) utm=4 stm=1 core=0
+07-02 18:53:56.969 I/dalvikvm(4845):   #00  pc 00086cec  /system/lib/libdvm.so (dvmDumpNativeStack(DebugOutputTarget const*, int)+35)
+07-02 18:53:56.969 I/dalvikvm(4845):   #01  pc 00071dce  /system/lib/libdvm.so (dvmDumpThreadEx(DebugOutputTarget const*, Thread*, bool)+505)
+07-02 18:53:56.969 I/dalvikvm(4845):   #02  pc 00071f80  /system/lib/libdvm.so (dvmDumpThread(Thread*, bool)+27)
+07-02 18:53:56.969 I/dalvikvm(4845):   #03  pc 0005ba44  /system/lib/libdvm.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #04  pc 00001db4  /system/lib/libnativehelper.so (jniRegisterNativeMethods+115)
+07-02 18:53:56.969 I/dalvikvm(4845):   #05  pc 00001a14  /system/lib/libqcomfm_jni.so (JNI_OnLoad+51)
+07-02 18:53:56.969 I/dalvikvm(4845):   #06  pc 0006ae06  /system/lib/libdvm.so (dvmLoadNativeCode(char const*, Object*, char**)+689)
+07-02 18:53:56.969 I/dalvikvm(4845):   #07  pc 00092e1a  /system/lib/libdvm.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #08  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #09  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:56.969 I/dalvikvm(4845):   #10  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:56.969 I/dalvikvm(4845):   #11  pc 000865f0  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+611)
+07-02 18:53:56.969 I/dalvikvm(4845):   #12  pc 000866fc  /system/lib/libdvm.so (dvmCallMethod(Thread*, Method const*, Object*, JValue*, ...)+19)
+07-02 18:53:56.969 I/dalvikvm(4845):   #13  pc 000994be  /system/lib/libdvm.so (dvmInitClass+689)
+07-02 18:53:56.969 I/dalvikvm(4845):   #14  pc 00092632  /system/lib/libdvm.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #15  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #16  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:56.969 I/dalvikvm(4845):   #17  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:56.969 I/dalvikvm(4845):   #18  pc 00086b1c  /system/lib/libdvm.so (dvmInvokeMethod(Object*, Method const*, ArrayObject*, ArrayObject*, ClassObject*, bool)+1039)
+07-02 18:53:56.969 I/dalvikvm(4845):   #19  pc 0009446a  /system/lib/libdvm.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #20  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #21  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:56.969 I/dalvikvm(4845):   #22  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:56.969 I/dalvikvm(4845):   #23  pc 000865f0  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+611)
+07-02 18:53:56.969 I/dalvikvm(4845):   #24  pc 0005c914  /system/lib/libdvm.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #25  pc 00056298  /system/lib/libandroid_runtime.so
+07-02 18:53:56.969 I/dalvikvm(4845):   #26  pc 000571ea  /system/lib/libandroid_runtime.so (android::AndroidRuntime::start(char const*, char const*)+529)
+07-02 18:53:56.969 I/dalvikvm(4845):   #27  pc 00000e8e  /system/bin/app_process
+07-02 18:53:56.969 I/dalvikvm(4845):   #28  pc 0000e8ea  /system/lib/libc.so (__libc_init+37)
+07-02 18:53:56.969 I/dalvikvm(4845):   at java.lang.Runtime.nativeLoad(Native Method)
+07-02 18:53:56.969 I/dalvikvm(4845):   at java.lang.Runtime.doLoad(Runtime.java:421)
+07-02 18:53:56.969 I/dalvikvm(4845):   at java.lang.Runtime.loadLibrary(Runtime.java:362)
+07-02 18:53:56.969 I/dalvikvm(4845):   at java.lang.System.loadLibrary(System.java:526)
+07-02 18:53:56.969 I/dalvikvm(4845):   at com.caf.fmradio.FMAdapterApp.<clinit>(FMAdapterApp.java:37)
+07-02 18:53:56.969 I/dalvikvm(4845):   at java.lang.Class.newInstanceImpl(Native Method)
+07-02 18:53:56.969 I/dalvikvm(4845):   at java.lang.Class.newInstance(Class.java:1208)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.app.Instrumentation.newApplication(Instrumentation.java:990)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.app.Instrumentation.newApplication(Instrumentation.java:975)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.app.LoadedApk.makeApplication(LoadedApk.java:509)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4440)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.app.ActivityThread.access$1500(ActivityThread.java:144)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1265)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.os.Handler.dispatchMessage(Handler.java:102)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.os.Looper.loop(Looper.java:136)
+07-02 18:53:56.969 I/dalvikvm(4845):   at android.app.ActivityThread.main(ActivityThread.java:5140)
+07-02 18:53:56.969 I/dalvikvm(4845):   at java.lang.reflect.Method.invokeNative(Native Method)
+07-02 18:53:56.969 I/dalvikvm(4845):   at java.lang.reflect.Method.invoke(Method.java:515)
+07-02 18:53:56.969 I/dalvikvm(4845):   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:795)
+07-02 18:53:56.969 I/dalvikvm(4845):   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:611)
+07-02 18:53:56.969 I/dalvikvm(4845):   at dalvik.system.NativeStart.main(Native Method)
+07-02 18:53:56.969 I/dalvikvm(4845): 
+07-02 18:53:56.969 E/dalvikvm(4845): VM aborting
+07-02 18:53:56.969 F/libc    (4845): Fatal signal 6 (SIGABRT) at 0x000012ed (code=-6), thread 4845 (com.caf.fmradio)
+07-02 18:53:57.079 I/DEBUG   (109): *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+07-02 18:53:57.079 I/DEBUG   (109): Build fingerprint: 'samsung/cm_kylessopen/kylessopen:4.4.4/KTU84P/33d7d45ef6:userdebug/test-keys'
+07-02 18:53:57.079 I/DEBUG   (109): Revision: '0'
+07-02 18:53:57.079 I/DEBUG   (109): pid: 4845, tid: 4845, name: com.caf.fmradio  >>> com.caf.fmradio <<<
+07-02 18:53:57.079 I/DEBUG   (109): signal 6 (SIGABRT), code -6 (SI_TKILL), fault addr --------
+07-02 18:53:57.289 I/DEBUG   (109):     r0 00000000  r1 000012ed  r2 00000006  r3 00000000
+07-02 18:53:57.289 I/DEBUG   (109):     r4 000012ed  r5 00000016  r6 00000006  r7 0000010c
+07-02 18:53:57.289 I/DEBUG   (109):     r8 52d4d2ac  r9 bee4c29c  sl 52d4c9e1  fp 516ba1e0
+07-02 18:53:57.289 I/DEBUG   (109):     ip 0000001b  sp bee4c020  lr 401c0f07  pc 401d9a80  cpsr 000f0010
+07-02 18:53:57.289 I/DEBUG   (109):     d0  74726f6261204d56  d1  614e2e6d65747379
+07-02 18:53:57.289 I/DEBUG   (109):     d2  2e736f2e6c616e72  d3  6e4965746f67795a
+07-02 18:53:57.289 I/DEBUG   (109):     d4  64696f72646e6162  d5  656d69746e75725f
+07-02 18:53:57.289 I/DEBUG   (109):     d6  646e6128206f732e  d7  6e413a3a64696f72
+07-02 18:53:57.289 I/DEBUG   (109):     d8  0000000000000000  d9  0000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     d10 0000000000000000  d11 0000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     d12 0000000000000000  d13 0000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     d14 0000000000000000  d15 0000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     d16 72646e612e6d6f63  d17 65746e692e64696f
+07-02 18:53:57.289 I/DEBUG   (109):     d18 0000000000000000  d19 000000000000b4f0
+07-02 18:53:57.289 I/DEBUG   (109):     d20 0000000000000000  d21 0000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     d22 0000000000004000  d23 0000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     d24 0000000000000000  d25 410933303133302b
+07-02 18:53:57.289 I/DEBUG   (109):     d26 0000000000000000  d27 8000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     d28 0000000000004000  d29 0000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     d30 0000000000000000  d31 8000000000000000
+07-02 18:53:57.289 I/DEBUG   (109):     scr 60000010
+07-02 18:53:57.299 I/DEBUG   (109): 
+07-02 18:53:57.299 I/DEBUG   (109): backtrace:
+07-02 18:53:57.299 I/DEBUG   (109):     #00  pc 0002fa80  /system/lib/libc.so (tgkill+12)
+07-02 18:53:57.299 I/DEBUG   (109):     #01  pc 00016f03  /system/lib/libc.so (pthread_kill+86)
+07-02 18:53:57.299 I/DEBUG   (109):     #02  pc 00017157  /system/lib/libc.so (raise+10)
+07-02 18:53:57.299 I/DEBUG   (109):     #03  pc 0001574d  /system/lib/libc.so
+07-02 18:53:57.299 I/DEBUG   (109):     #04  pc 0002f334  /system/lib/libc.so (abort+4)
+07-02 18:53:57.299 I/DEBUG   (109):     #05  pc 00057af9  /system/lib/libdvm.so (dvmAbort+84)
+07-02 18:53:57.299 I/DEBUG   (109):     #06  pc 00001db7  /system/lib/libnativehelper.so (jniRegisterNativeMethods+118)
+07-02 18:53:57.299 I/DEBUG   (109):     #07  pc 00001a15  /system/lib/libqcomfm_jni.so (JNI_OnLoad+52)
+07-02 18:53:57.299 I/DEBUG   (109):     #08  pc 0006ae09  /system/lib/libdvm.so (dvmLoadNativeCode(char const*, Object*, char**)+692)
+07-02 18:53:57.299 I/DEBUG   (109):     #09  pc 00092e1b  /system/lib/libdvm.so
+07-02 18:53:57.299 I/DEBUG   (109):     #10  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:57.299 I/DEBUG   (109):     #11  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:57.299 I/DEBUG   (109):     #12  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:57.299 I/DEBUG   (109):     #13  pc 000865f1  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+612)
+07-02 18:53:57.299 I/DEBUG   (109):     #14  pc 000866fd  /system/lib/libdvm.so (dvmCallMethod(Thread*, Method const*, Object*, JValue*, ...)+20)
+07-02 18:53:57.309 I/DEBUG   (109):     #15  pc 000994bf  /system/lib/libdvm.so (dvmInitClass+690)
+07-02 18:53:57.309 I/DEBUG   (109):     #16  pc 00092633  /system/lib/libdvm.so
+07-02 18:53:57.309 I/DEBUG   (109):     #17  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:57.309 I/DEBUG   (109):     #18  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:57.309 I/DEBUG   (109):     #19  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:57.309 I/DEBUG   (109):     #20  pc 00086b1d  /system/lib/libdvm.so (dvmInvokeMethod(Object*, Method const*, ArrayObject*, ArrayObject*, ClassObject*, bool)+1040)
+07-02 18:53:57.309 I/DEBUG   (109):     #21  pc 0009446b  /system/lib/libdvm.so
+07-02 18:53:57.309 I/DEBUG   (109):     #22  pc 000289a0  /system/lib/libdvm.so
+07-02 18:53:57.309 I/DEBUG   (109):     #23  pc 0003254c  /system/lib/libdvm.so (dvmMterpStd(Thread*)+152)
+07-02 18:53:57.309 I/DEBUG   (109):     #24  pc 0002ea38  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+180)
+07-02 18:53:57.309 I/DEBUG   (109):     #25  pc 000865f1  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+612)
+07-02 18:53:57.309 I/DEBUG   (109):     #26  pc 0005c915  /system/lib/libdvm.so
+07-02 18:53:57.309 I/DEBUG   (109):     #27  pc 0005629b  /system/lib/libandroid_runtime.so
+07-02 18:53:57.309 I/DEBUG   (109):     #28  pc 000571eb  /system/lib/libandroid_runtime.so (android::AndroidRuntime::start(char const*, char const*)+530)
+07-02 18:53:57.309 I/DEBUG   (109):     #29  pc 00000e8f  /system/bin/app_process
+07-02 18:53:57.309 I/DEBUG   (109):     #30  pc 0000e8ed  /system/lib/libc.so (__libc_init+40)
+07-02 18:53:57.309 I/DEBUG   (109):     #31  pc 00001004  /system/bin/app_process
+07-02 18:53:57.309 I/DEBUG   (109): 
+07-02 18:53:57.309 I/DEBUG   (109): stack:
+07-02 18:53:57.309 I/DEBUG   (109):          bee4bfe0  bee4c29c  [stack]
+07-02 18:53:57.309 I/DEBUG   (109):          bee4bfe4  52d4c9e1  /system/lib/libqcomfm_jni.so (JNI_OnLoad)
+07-02 18:53:57.309 I/DEBUG   (109):          bee4bfe8  516ba1e0  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4bfec  401df9ab  /system/lib/libc.so (snprintf+154)
+07-02 18:53:57.309 I/DEBUG   (109):          bee4bff0  00000000  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4bff4  bee4c07c  [stack]
+07-02 18:53:57.309 I/DEBUG   (109):          bee4bff8  00000000  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4bffc  00000000  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c000  4e72cf7c  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c004  00004000  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c008  bee4c08a  [stack]
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c00c  4e7d3e49  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c010  000001f9  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c014  ffff0208  [vectors]
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c018  bee4c084  [stack]
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c01c  000001ff  
+07-02 18:53:57.309 I/DEBUG   (109):     #00  bee4c020  000012ed  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c024  00000016  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c028  00000006  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c02c  0000001b  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c030  0000001b  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c034  401c0f07  /system/lib/libc.so (pthread_kill+90)
+07-02 18:53:57.309 I/DEBUG   (109):     #01  bee4c038  00000006  
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c03c  401de021  /system/lib/libc.so (_cleanup)
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c040  52d4f004  /system/lib/libqcomfm_jni.so
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c044  401c115b  /system/lib/libc.so (raise+14)
+07-02 18:53:57.309 I/DEBUG   (109):     #02  bee4c048  bee4c050  [stack]
+07-02 18:53:57.309 I/DEBUG   (109):          bee4c04c  401bf751  /system/lib/libc.so
+07-02 18:53:57.329 I/DEBUG   (109): 
+07-02 18:53:57.329 I/DEBUG   (109): memory near r1:
+07-02 18:53:57.329 I/DEBUG   (109):     000012cc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000012dc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000012ec ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000012fc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000130c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000131c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000132c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000133c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000134c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000135c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000136c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000137c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000138c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000139c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000013ac ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000013bc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109): 
+07-02 18:53:57.339 I/DEBUG   (109): memory near r4:
+07-02 18:53:57.339 I/DEBUG   (109):     000012cc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000012dc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000012ec ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000012fc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000130c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000131c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000132c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000133c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000134c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000135c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000136c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000137c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000138c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     0000139c ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000013ac ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109):     000013bc ffffffff ffffffff ffffffff ffffffff  
+07-02 18:53:57.339 I/DEBUG   (109): 
+07-02 18:53:57.339 I/DEBUG   (109): memory near r8:
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d28c 614e4950 65766974 0000000a 74703e2d  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d29c 616e2079 65766974 69616620 0064656c  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d2ac 6d6f6371 726d662f 6f696461 526d462f  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d2bc 69656365 4a726576 0000494e 3a204d46  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d2cc 616f6c20 676e6964 4f435120 46204d4d  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d2dc 4e4a2d4d 00000a49 20494e4a 73726576  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d2ec 206e6f69 6d73696d 68637461 72726520  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d2fc 0000726f 20696e6a 70616461 20726574  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d30c 76726573 20656369 69676572 61727473  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d31c 6e6f6974 69616620 6572756c 7473202c  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d32c 73757461 6425203a 00000000 75716361  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d33c 46657269 74614e64 00657669 616a4c28  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d34c 6c2f6176 2f676e61 69727453 293b676e  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d35c 00000049 736f6c63 4e644665 76697461  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d36c 00000065 49294928 00000000 46746567  
+07-02 18:53:57.339 I/DEBUG   (109):     52d4d37c 4e716572 76697461 00000065 46746573  
+07-02 18:53:57.339 I/DEBUG   (109): 
+07-02 18:53:57.339 I/DEBUG   (109): memory near r9:
+07-02 18:53:57.339 I/DEBUG   (109):     bee4c27c 00000000 00000000 ca0eed99 52d4f004  
+07-02 18:53:57.339 I/DEBUG   (109):     bee4c28c 400e3e80 00000000 403a7db9 bee4c2c0  
+07-02 18:53:57.339 I/DEBUG   (109):     bee4c29c 512e0a80 419a12d8 400e3e00 52d4cb50  
+07-02 18:53:57.339 I/DEBUG   (109):     bee4c2ac 00000000 00000001 419a12d8 bee4c340  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c2bc 52d4ca19 400e3e80 41c77c98 419a12d8  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c2cc 516ba1b8 419a31c0 41912e0b 00000001  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c2dc 4014c0ac 00000000 4021639c 4008b530  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c2ec 4001d004 516ba1ec 516ba1f0 00000001  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c2fc bee4c308 4014c678 00000004 516ba1d8  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c30c 516ba1e0 40216198 ca0eed99 516ba1e0  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c31c 516ba1b8 41c794f0 4008b540 41c77c98  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c32c 00000000 00000006 40108bb0 bee4c4e0  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c33c 4193ae1f 00000000 4008b530 4dbb71aa  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c34c 40108be4 4008b530 419c9638 418c7680  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c35c 418d09a4 cbcacccd 4008b530 5175a000  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c36c 4ce6a8d8 00000000 bee4c3e0 fffffec4  
+07-02 18:53:57.349 I/DEBUG   (109): 
+07-02 18:53:57.349 I/DEBUG   (109): memory near sl:
+07-02 18:53:57.349 I/DEBUG   (109):     52d4c9c0 f04f47a0 e7f830ff 4a044903 447a4479  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4c9d0 f000231b bf00b84d 000008dc 00002632  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4c9e0 4d19b530 46044a19 b083447d 447a4629  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4c9f0 f7fe2006 6823efba 699b2206 f2c04620  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca00 46690201 b9704798 4a124911 44799800  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca10 231b447a e826f7ff db0d2800 f2c02006  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca20 b0030001 4a0cbd30 20064629 f7fe447a  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca30 f04fef9c e7f430ff 46034a08 447a4629  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca40 f7fe2006 e7f4ef92 00000164 000008d6  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca50 0000089a 000025f0 000008b4 000008be  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca60 46c04778 e59fc000 e08cf00f ffffefc4  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca70 46c04778 e59fc000 e08cf00f ffffefe4  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca80 7ffff04c 8002abb0 7ffff100 8001aab0  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4ca90 7ffff1f4 8015acb0 7ffff258 8015aab0  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4caa0 7ffff348 8016abb0 7ffff38c 8016a9b0  
+07-02 18:53:57.349 I/DEBUG   (109):     52d4cab0 7ffff3cc 8001a8b0 7ffff3ec 800baab0  
+07-02 18:53:57.349 I/DEBUG   (109): 
+07-02 18:53:57.349 I/DEBUG   (109): memory near fp:
+07-02 18:53:57.349 I/DEBUG   (109):     516ba1c0 2f62696c 7162696c 666d6f63 6e6a5f6d  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba1d0 6f732e69 6f732e00 79532e00 00000023  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba1e0 516ba200 4001d004 41c77c98 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba1f0 00000000 00000001 00000000 0000002b  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba200 7379732f 2f6d6574 2f62696c 7162696c  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba210 666d6f63 6e6a5f6d 6f732e69 006e6f00  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba220 00000020 0000010b 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba230 e7510301 400ecdc0 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba240 45094043 512e1dd8 e20b4fc4 51682628  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba250 8c767145 400ecd30 6d12e365 512e2d88  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba260 8a1dad04 516ba1e0 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba270 13a69869 512df920 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba280 00000000 00000000 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba290 00000000 00000000 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba2a0 00000000 00000000 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     516ba2b0 00000000 00000000 d905fb32 51681ab8  
+07-02 18:53:57.349 I/DEBUG   (109): 
+07-02 18:53:57.349 I/DEBUG   (109): memory near sp:
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c000 4e72cf7c 00004000 bee4c08a 4e7d3e49  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c010 000001f9 ffff0208 bee4c084 000001ff  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c020 000012ed 00000016 00000006 0000001b  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c030 0000001b 401c0f07 00000006 401de021  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c040 52d4f004 401c115b bee4c050 401bf751  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c050 ffffffdf 40212234 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c060 401ddec1 401c38e3 419a12d8 419a12d8  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c070 bee4c084 401d9338 00000000 418ffafd  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c080 0000005d 6c756e28 0000296c 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c090 00000000 00000000 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c0a0 00000000 00000000 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c0b0 00000000 00000000 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c0c0 00000000 00000000 00000000 00000000  
+07-02 18:53:57.349 I/DEBUG   (109):     bee4c0d0 00000000 00000000 00000000 00000000  
+07-02 18:53:57.359 I/DEBUG   (109):     bee4c0e0 00000000 00000000 00000000 00000000  
+07-02 18:53:57.359 I/DEBUG   (109):     bee4c0f0 00000000 00000000 00000000 00000000  
+07-02 18:53:57.359 I/DEBUG   (109): 
+07-02 18:53:57.359 I/DEBUG   (109): code around pc:
+07-02 18:53:57.359 I/DEBUG   (109):     401d9a60 e8bd00f0 e3700a01 912fff1e e2600000  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9a70 ea00aeff e92d50f0 e3a07f43 ef000000  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9a80 e8bd50f0 e3700a01 912fff1e e2600000  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9a90 ea00aef7 e92d50f0 e3a070ee ef000000  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9aa0 e8bd50f0 e3700a01 912fff1e e2600000  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9ab0 ea00aeef f200429a bf0080cf f000f891  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9ac0 4001e92d f040f891 d3532a10 0301ea80  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9ad0 0303f013 806ef000 d3262ae0 0300f1c0  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9ae0 030ff013 eba2d021 ea5f0203 bf447cc3  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9af0 eb01f811 eb01f800 f811bf21 f811cb01  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9b00 f800eb01 f800cb01 ea5feb01 da037c43  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9b10 080df9a1 083df980 f921d303 f900070d  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9b20 f891071d f891f000 3a40f040 f891d30f  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9b30 f891f080 f921f0c0 f921020d f891420d  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9b40 3a40f0c0 020df900 420df900 f102d2f3  
+07-02 18:53:57.359 I/DEBUG   (109):     401d9b50 3a200240 f921d305 3a20020d 020df900  
+07-02 18:53:57.359 I/DEBUG   (109): 
+07-02 18:53:57.359 I/DEBUG   (109): code around lr:
+07-02 18:53:57.359 I/DEBUG   (109):     401c0ee4 f882f002 46206005 460cbd70 6a244810  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0ef4 f7f74478 f016ef3c 4621eff6 f0184632  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f04 3001edb8 f002d005 2400f86f 46206005  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f14 f002bd70 6804f869 f866f002 46206005  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f24 bf00bd70 000554f8 000554ec 000554d6  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f34 000554c0 bf72f7ff e92d4b3f 4a3f43f0  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f44 b08b447b 4607589c 460d6823 f0029309  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f54 f8d0f84b b1958000 f0194628 280ffc7f  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f64 d9144606 f840f002 20224684 8000f8cc  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f74 68239d09 d15c429d e8bdb00b 271683f0  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f84 f832f002 46384602 8000f8c2 f7ffe7f0  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0f94 42b8ffd1 482ad045 f7f74478 4829eee6  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0fa4 e0014478 d0084287 28006800 4826d1fa  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0fb4 44782703 eedaf7f7 4824e7e2 44786a3f  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0fc4 eed4f7f7 f10d4a22 463b0904 21204648  
+07-02 18:53:57.359 I/DEBUG   (109):     401c0fd4 f01e447a 4648fc9b f02a2101 f1b0fc2f  
+07-02 18:53:57.539 I/BootReceiver(542): Copying /data/tombstones/tombstone_04 to DropBox (SYSTEM_TOMBSTONE)
+07-02 18:53:57.589 D/Zygote  (113): Process 4845 terminated by signal (6)
+07-02 18:53:57.659 I/ActivityManager(542): Process com.caf.fmradio (pid 4845) has died.
+07-02 18:53:57.659 W/ActivityManager(542): Force removing ActivityRecord{424889b0 u0 com.caf.fmradio/.FMRadio t19}: app died, no saved state
+07-02 18:53:57.709 W/ActivityManager(542): Process com.caf.fmradio has crashed too many times: killing!
+07-02 18:53:58.539 I/Timeline(780): Timeline: Activity_idle id: android.os.BinderProxy@41c72f88 time:1016110
+07-02 18:53:58.539 I/ActivityManager(542): Exiting empty application process com.caf.fmradio (null)
+07-02 18:53:58.959 I/Timeline(542): Timeline: Activity_windows_visible id: ActivityRecord{42205d90 u0 com.cyanogenmod.trebuchet/org.cyanogenmod.trebuchet.TrebuchetLauncher t1} time:1016534
+07-02 18:53:59.559 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:53:59.559 D/AudioFlinger(115): start(4099), calling pid 542 session 77
+07-02 18:53:59.559 D/AudioFlinger(115): ? => ACTIVE (4099) on thread 0x40c6eb68
+07-02 18:53:59.559 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:53:59.579 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:59.579 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:59.829 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:59.829 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:59.839 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:59.839 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:59.849 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:59.849 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:59.869 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:59.869 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:53:59.879 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:53:59.879 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:00.439 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:54:00.439 D/AudioFlinger(115): start(4098), calling pid 542 session 78
+07-02 18:54:00.439 D/AudioFlinger(115): ? => ACTIVE (4098) on thread 0x4007acd8
+07-02 18:54:00.449 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:54:00.559 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:00.559 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:00.569 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:00.569 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:00.589 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:00.589 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:00.599 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:00.599 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:00.609 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:00.609 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:01.329 I/ActivityManager(542): START u0 {act=com.android.systemui.recent.action.TOGGLE_RECENTS flg=0x10800000 cmp=com.android.systemui/.recent.RecentsActivity} from pid 627
+07-02 18:54:01.429 W/InputMethodManagerService(542): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@422186b8 (uid=10022 pid=780)
+07-02 18:54:01.509 I/Timeline(627): Timeline: Activity_idle id: android.os.BinderProxy@41eddde8 time:1019079
+07-02 18:54:01.819 I/Timeline(542): Timeline: Activity_windows_visible id: ActivityRecord{423355a0 u0 com.android.systemui/.recent.RecentsActivity t16} time:1019396
+07-02 18:54:02.569 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
+07-02 18:54:02.579 D/AudioFlinger(115): start(4097), calling pid 542 session 79
+07-02 18:54:02.579 D/AudioFlinger(115): ? => ACTIVE (4097) on thread 0x40054408
+07-02 18:54:02.589 I/AudioHardwareMSM76XXA(115): Routing audio to Speakerphone
+07-02 18:54:02.679 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:02.679 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:02.699 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:02.699 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:02.709 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:02.709 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:02.719 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:02.719 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:02.739 D/AudioHardwareMSM76XXA(115): Bufsize 4800
+07-02 18:54:02.739 D/AudioHardwareMSM76XXA(115): SampleRate 44.1k
+07-02 18:54:02.819 V/PhoneStatusBar(627): setLightsOn(true)
+07-02 18:54:03.009 W/InputMethodManagerService(542): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4239bd78 (uid=10009 pid=627)
+07-02 18:54:03.139 I/wpa_supplicant(1403): wlan0: CTRL-EVENT-SCAN-STARTED 
+07-02 18:54:03.519 V/PhoneStatusBar(627): setLightsOn(true)
+07-02 18:54:03.829 I/Timeline(542): Timeline: Activity_windows_visible id: ActivityRecord{42176018 u0 com.nolanlawson.logcat/.LogcatActivity t14} time:1021404
+07-02 18:54:04.219 I/Timeline(4518): Timeline: Activity_idle id: android.os.BinderProxy@41c6ef30 time:1021797
+07-02 18:54:04.609 I/GCoreUlr(3470): Successfully inserted location
+07-02 18:54:04.609 I/GCoreUlr(3470): Not calling LocationReportingService, hasMoved: false, elapsed millis: 610741, request: Phone
+07-02 18:54:05.019 W/AudioTrack(542): AUDIO_OUTPUT_FLAG_FAST denied by client due to mismatching sample rate (48000 vs 44100)
